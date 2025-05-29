@@ -88,3 +88,9 @@ TodoApp/
 ├── Program.cs              # Punto de entrada del proyecto
 ├── Startup.cs (si usas .NET 5/3.1) o configuración en Program.cs para .NET 6+
 └── README.md               # Documentación general del proyecto
+
+DIAGRAMA BASE DE DATOS
+
+<img width="510" alt="image" src="https://github.com/user-attachments/assets/2cab9454-7e89-47c8-b7fd-f4d7f606e3df" />
+
+
