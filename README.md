@@ -94,7 +94,7 @@ DIAGRAMA BASE DE DATOS
 <img width="510" alt="image" src="https://github.com/user-attachments/assets/2cab9454-7e89-47c8-b7fd-f4d7f606e3df" />
 
 
-Explicación de endpoints y cómo usarlos
+## Explicación de endpoints y cómo usarlos
 
 ## Endpoints Principales
 
