@@ -1,8 +1,8 @@
-TodoApp
+## TodoApp
 
 API para la gestión de tareas y categorías con autenticación JWT en ASP.NET Core.
 
-Tecnologías usadas
+## Tecnologías usadas
 
 ASP.NET Core Web API
 Entity Framework Core
@@ -11,13 +11,13 @@ JWT (JSON Web Token)
 Swagger
 Funcionalidades
 
-Registro y login de usuarios
+## Registro y login de usuarios
 
 Gestión de tareas (CRUD)
 Gestión de categorías
 Roles de usuario
 
-Instalación
+## Instalación
 
 Clona el repositorio
 git clone https://github.com/CristianCamiloUrbina/TodoApp.git
@@ -27,7 +27,7 @@ Ejecuta las migraciones con:
 dotnet ef database update
 Ejecuta la aplicación (F5 o dotnet run)
 
-Endpoints principales
+## Endpoints principales
 
 POST /api/Account/register → Registrar nuevo usuario
 POST /api/Account/login → Autenticar usuario y obtener token JWT
@@ -36,12 +36,8 @@ POST /api/Tareas → Crear nueva tarea
 GET /api/Categorias → Listar categorías
 POST /api/Categorias → Crear nueva categoría
 
-Autor
 
-Cristian Camilo Urbina
-
-
-Estructura del proyecto
+## Estructura del proyecto
 
 TodoApp/
 │
@@ -89,7 +85,7 @@ TodoApp/
 ├── Startup.cs (si usas .NET 5/3.1) o configuración en Program.cs para .NET 6+
 └── README.md               # Documentación general del proyecto
 
-DIAGRAMA BASE DE DATOS
+## DIAGRAMA BASE DE DATOS
 
 <img width="510" alt="image" src="https://github.com/user-attachments/assets/2cab9454-7e89-47c8-b7fd-f4d7f606e3df" />
 
